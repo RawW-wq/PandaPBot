@@ -1,0 +1,8 @@
+requests
+statcord.py
+jishaku
+praw
+asyncpg
+discord
+aiohttp
+psutil
