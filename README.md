@@ -22,7 +22,6 @@
   <a href="#overview">Overview</a>
   •
   <a href="#requirements">Requirements</a>
-  •
 </p>
 
 # Overview
